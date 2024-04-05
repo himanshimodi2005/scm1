@@ -1,0 +1,3 @@
+this is scm class for group5
+hello g5
+
